@@ -1,3 +1,3 @@
 # Bayar-Fintech
 This is a beginner Android Application. 
-This was programmed using Java
+This was programmed in Java
